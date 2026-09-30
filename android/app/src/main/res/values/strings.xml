@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Neon Snake Arcade</string>
+    <string name="title_activity_main">Neon Snake Arcade</string>
+    <string name="package_name">com.halimat.snakegame</string>
+    <string name="custom_url_scheme">com.halimat.snakegame</string>
+</resources>

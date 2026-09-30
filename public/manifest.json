@@ -1,0 +1,16 @@
+{
+  "short_name": "NeonSnake",
+  "name": "Neon Snake Arcade Game",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#00f3ff",
+  "display": "standalone",
+  "orientation": "portrait"
+}

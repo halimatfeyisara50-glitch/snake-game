@@ -1,0 +1,9 @@
+{
+  "appId": "com.halimat.snakegame",
+  "appName": "Neon Snake Arcade",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
