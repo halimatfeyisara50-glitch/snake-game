@@ -14,8 +14,6 @@
     "@capacitor/android": "^8.5.2",
     "@capacitor/cli": "^7.6.9",
     "@capacitor/core": "^8.5.2",
-    "@esbuild/win32-x64": "^0.28.2",
-    "@rolldown/binding-win32-x64-msvc": "^1.2.11",
     "canvas-confetti": "^1.9.4",
     "lucide-react": "^1.48.0",
     "react": "^19.2.8",
